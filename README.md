@@ -1,4 +1,4 @@
-# Simple_Linear_Regression_Model
+# Simple Linear Regression Model
 A Simple Linear Regression Model for exchange rate data. This repository includes Bilkent University Introduction to Machine Learning course assignment. The problem definition is given below:
 
 *The dataset for this question consists of monthly average of USD/TRY exchange rates from November 2014 to August 2019. In addition,
